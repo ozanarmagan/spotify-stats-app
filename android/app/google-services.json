@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26611648172",
+    "project_id": "stats-for-spotify-2db6a",
+    "storage_bucket": "stats-for-spotify-2db6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26611648172:android:8ff9c40b556f82f11ac109",
+        "android_client_info": {
+          "package_name": "com.example.statsfspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26611648172-7hrb142sf93nqo2c4fsbf56dii0qppse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQYluPhbUKdvioTU26kx92fLW14Q7Ls8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26611648172-7hrb142sf93nqo2c4fsbf56dii0qppse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
